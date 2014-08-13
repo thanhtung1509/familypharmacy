@@ -1,4 +1,8 @@
 {
+  "author" : {
+    "name": "Tung Pham",
+    "company": ""
+  },
   "name": "familypharmacy",
   "version": "0.0.0",
   "dependencies": {},
