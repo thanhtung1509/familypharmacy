@@ -1,0 +1,29 @@
+/* Custom page footer */
+.footer {
+  /* padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5; */
+
+
+position: relative;
+background-color: #474747;
+background-image: url('../images/common/footer_bg.png');
+background-repeat: repeat;
+clear: both;
+/* padding: 0px 10px; */
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+
+  .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+  }
+}
